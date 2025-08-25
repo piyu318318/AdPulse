@@ -1,0 +1,35 @@
+[2025-08-08T19:36:09.667+0530] {processor.py:161} INFO - Started process (PID=76944) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T19:36:09.670+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T19:36:09.670+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:36:09.670+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T19:36:09.686+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T19:36:09.933+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:36:09.933+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:36:09.942+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:36:09.942+0530] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T19:36:09.960+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.298 seconds
+[2025-08-08T19:39:38.208+0530] {processor.py:161} INFO - Started process (PID=77066) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T19:39:38.211+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T19:39:38.212+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:39:38.212+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T19:39:38.227+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T19:39:38.333+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:39:38.333+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:39:38.341+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:39:38.341+0530] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T19:39:38.356+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2025-08-08T19:43:09.836+0530] {processor.py:161} INFO - Started process (PID=77267) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T19:43:09.838+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T19:43:09.839+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:43:09.839+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T19:43:09.854+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T19:43:09.958+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:43:09.958+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:43:09.966+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:43:09.966+0530] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T19:43:09.983+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.151 seconds
+[2025-08-08T20:15:52.244+0530] {processor.py:161} INFO - Started process (PID=77537) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T20:15:52.247+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T20:15:52.248+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:15:52.248+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T20:15:52.264+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T20:15:52.375+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:15:52.375+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T20:15:52.383+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:15:52.383+0530] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T20:15:52.402+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.162 seconds
+[2025-08-08T20:25:24.763+0530] {processor.py:161} INFO - Started process (PID=78213) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T20:25:24.768+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-08-08T20:25:24.769+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:25:24.769+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T20:25:24.788+0530] {processor.py:840} INFO - DAG(s) 'example_complex' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-08-08T20:25:25.096+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:25:25.096+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T20:25:25.105+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:25:25.105+0530] {dag.py:3954} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-08-08T20:25:25.122+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.364 seconds

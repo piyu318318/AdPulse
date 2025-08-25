@@ -1,0 +1,70 @@
+[2025-08-08T19:34:33.469+0530] {processor.py:161} INFO - Started process (PID=76880) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:34:33.472+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-08T19:34:33.473+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:34:33.473+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:34:33.489+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:34:33.901+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:34:33.900+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:34:33.933+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:34:33.933+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2025-08-07 00:00:00+00:00, run_after=2025-08-08 00:00:00+00:00
+[2025-08-08T19:34:33.963+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.501 seconds
+[2025-08-08T19:36:57.484+0530] {processor.py:161} INFO - Started process (PID=76970) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:36:57.488+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-08T19:36:57.488+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:36:57.488+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:36:57.498+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:36:57.603+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:36:57.603+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:36:57.620+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:36:57.619+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2025-08-07 00:00:00+00:00, run_after=2025-08-08 00:00:00+00:00
+[2025-08-08T19:36:57.679+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.199 seconds
+[2025-08-08T19:38:40.856+0530] {processor.py:161} INFO - Started process (PID=77028) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:38:40.860+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-08T19:38:40.860+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:38:40.860+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:38:40.869+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:38:40.962+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:38:40.962+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:38:40.978+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:38:40.978+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2025-08-07 00:00:00+00:00, run_after=2025-08-08 00:00:00+00:00
+[2025-08-08T19:38:41.039+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.186 seconds
+[2025-08-08T19:40:25.079+0530] {processor.py:161} INFO - Started process (PID=77103) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:40:25.082+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-08T19:40:25.083+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:40:25.083+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:40:25.093+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:40:25.188+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:40:25.187+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:40:25.203+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:40:25.203+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2025-08-07 00:00:00+00:00, run_after=2025-08-08 00:00:00+00:00
+[2025-08-08T19:40:25.260+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.185 seconds
+[2025-08-08T19:42:11.624+0530] {processor.py:161} INFO - Started process (PID=77171) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:42:11.627+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-08T19:42:11.627+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:42:11.627+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:42:11.637+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:42:11.730+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:42:11.730+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:42:11.746+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:42:11.746+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2025-08-07 00:00:00+00:00, run_after=2025-08-08 00:00:00+00:00
+[2025-08-08T19:42:11.806+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.186 seconds
+[2025-08-08T19:43:57.983+0530] {processor.py:161} INFO - Started process (PID=77290) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:43:57.986+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-08T19:43:57.986+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:43:57.986+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:43:57.996+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T19:43:58.102+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:43:58.101+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:43:58.120+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:43:58.120+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2025-08-07 00:00:00+00:00, run_after=2025-08-08 00:00:00+00:00
+[2025-08-08T19:43:58.178+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.199 seconds
+[2025-08-08T20:14:30.645+0530] {processor.py:161} INFO - Started process (PID=77499) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T20:14:30.648+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-08T20:14:30.649+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:14:30.649+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T20:14:30.658+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T20:14:30.754+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:14:30.754+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T20:14:30.771+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:14:30.771+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2025-08-07 00:00:00+00:00, run_after=2025-08-08 00:00:00+00:00
+[2025-08-08T20:14:30.832+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.191 seconds
+[2025-08-08T20:16:45.572+0530] {processor.py:161} INFO - Started process (PID=77582) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T20:16:45.576+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-08T20:16:45.577+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:16:45.577+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T20:16:45.588+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T20:16:45.704+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:16:45.703+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T20:16:45.723+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:16:45.723+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2025-08-07 00:00:00+00:00, run_after=2025-08-08 00:00:00+00:00
+[2025-08-08T20:16:45.785+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.218 seconds
+[2025-08-08T20:23:42.396+0530] {processor.py:161} INFO - Started process (PID=77766) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T20:23:42.400+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-08T20:23:42.400+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:23:42.400+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T20:23:42.411+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T20:23:42.697+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:23:42.696+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T20:23:42.720+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:23:42.720+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2025-08-07 00:00:00+00:00, run_after=2025-08-08 00:00:00+00:00
+[2025-08-08T20:23:42.741+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.349 seconds
+[2025-08-08T20:27:33.179+0530] {processor.py:161} INFO - Started process (PID=78298) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T20:27:33.184+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-08-08T20:27:33.184+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:27:33.184+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T20:27:33.196+0530] {processor.py:840} INFO - DAG(s) 'tutorial' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-08-08T20:27:33.516+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:27:33.516+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T20:27:33.542+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:27:33.542+0530] {dag.py:3954} INFO - Setting next_dagrun for tutorial to 2025-08-07 00:00:00+00:00, run_after=2025-08-08 00:00:00+00:00
+[2025-08-08T20:27:33.564+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.390 seconds

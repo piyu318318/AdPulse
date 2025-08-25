@@ -1,0 +1,35 @@
+[2025-08-08T19:36:00.670+0530] {processor.py:161} INFO - Started process (PID=76930) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T19:36:00.673+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-08-08T19:36:00.673+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:36:00.673+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T19:36:00.721+0530] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T19:36:00.961+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:36:00.961+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:36:00.971+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:36:00.971+0530] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-08-08T19:36:00.987+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.321 seconds
+[2025-08-08T19:38:17.027+0530] {processor.py:161} INFO - Started process (PID=77018) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T19:38:17.030+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-08-08T19:38:17.030+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:38:17.030+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T19:38:17.076+0530] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T19:38:17.212+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:38:17.211+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:38:17.223+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:38:17.223+0530] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-08-08T19:38:17.243+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.219 seconds
+[2025-08-08T19:41:45.883+0530] {processor.py:161} INFO - Started process (PID=77142) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T19:41:45.886+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-08-08T19:41:45.887+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:41:45.887+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T19:41:45.932+0530] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T19:41:46.061+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:41:46.061+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:41:46.072+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:41:46.072+0530] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-08-08T19:41:46.090+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.211 seconds
+[2025-08-08T20:14:00.008+0530] {processor.py:161} INFO - Started process (PID=77413) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T20:14:00.012+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-08-08T20:14:00.013+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:14:00.013+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T20:14:00.079+0530] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T20:14:00.274+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:14:00.273+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T20:14:00.285+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:14:00.284+0530] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-08-08T20:14:00.307+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.306 seconds
+[2025-08-08T20:25:15.320+0530] {processor.py:161} INFO - Started process (PID=78209) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T20:25:15.324+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py for tasks to queue
+[2025-08-08T20:25:15.325+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:25:15.325+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T20:25:15.382+0530] {processor.py:840} INFO - DAG(s) 'example_display_name' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py
+[2025-08-08T20:25:15.657+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:25:15.657+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T20:25:15.667+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:25:15.667+0530] {dag.py:3954} INFO - Setting next_dagrun for example_display_name to None, run_after=None
+[2025-08-08T20:25:15.688+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_display_name.py took 0.373 seconds

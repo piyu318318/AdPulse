@@ -1,0 +1,63 @@
+[2025-08-08T19:35:01.542+0530] {processor.py:161} INFO - Started process (PID=76897) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:35:01.545+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-08-08T19:35:01.546+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:35:01.546+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:35:01.599+0530] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:35:01.849+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:35:01.848+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:35:01.873+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:35:01.873+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-08-08 14:02:00+00:00, run_after=2025-08-08 14:04:00+00:00
+[2025-08-08T19:35:01.890+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.352 seconds
+[2025-08-08T19:37:22.168+0530] {processor.py:161} INFO - Started process (PID=76979) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:37:22.171+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-08-08T19:37:22.172+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:37:22.172+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:37:22.220+0530] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:37:22.349+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:37:22.348+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:37:22.373+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:37:22.373+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-08-08 14:04:00+00:00, run_after=2025-08-08 14:06:00+00:00
+[2025-08-08T19:37:22.392+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.227 seconds
+[2025-08-08T19:39:03.472+0530] {processor.py:161} INFO - Started process (PID=77045) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:39:03.475+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-08-08T19:39:03.476+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:39:03.475+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:39:03.523+0530] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:39:03.656+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:39:03.656+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:39:03.682+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:39:03.682+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-08-08 14:06:00+00:00, run_after=2025-08-08 14:08:00+00:00
+[2025-08-08T19:39:03.701+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.232 seconds
+[2025-08-08T19:40:49.402+0530] {processor.py:161} INFO - Started process (PID=77113) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:40:49.405+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-08-08T19:40:49.406+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:40:49.405+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:40:49.452+0530] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:40:49.581+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:40:49.581+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:40:49.606+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:40:49.606+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-08-08 14:08:00+00:00, run_after=2025-08-08 14:10:00+00:00
+[2025-08-08T19:40:49.625+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.227 seconds
+[2025-08-08T19:42:34.071+0530] {processor.py:161} INFO - Started process (PID=77182) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:42:34.074+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-08-08T19:42:34.075+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:42:34.075+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:42:34.124+0530] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:42:34.266+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:42:34.266+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:42:34.291+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:42:34.291+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-08-08 14:10:00+00:00, run_after=2025-08-08 14:12:00+00:00
+[2025-08-08T19:42:34.310+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.243 seconds
+[2025-08-08T19:44:19.682+0530] {processor.py:161} INFO - Started process (PID=77313) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:44:19.684+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-08-08T19:44:19.685+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:44:19.685+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:44:19.732+0530] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T19:44:19.862+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:44:19.861+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T19:44:19.886+0530] {logging_mixin.py:188} INFO - [2025-08-08T19:44:19.886+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-08-08 14:12:00+00:00, run_after=2025-08-08 14:14:00+00:00
+[2025-08-08T19:44:19.905+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.227 seconds
+[2025-08-08T20:14:56.224+0530] {processor.py:161} INFO - Started process (PID=77516) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T20:14:56.227+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-08-08T20:14:56.228+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:14:56.228+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T20:14:56.275+0530] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T20:14:56.407+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:14:56.407+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T20:14:56.433+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:14:56.433+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-08-08 14:42:00+00:00, run_after=2025-08-08 14:44:00+00:00
+[2025-08-08T20:14:56.450+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.231 seconds
+[2025-08-08T20:17:11.177+0530] {processor.py:161} INFO - Started process (PID=77601) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T20:17:11.181+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-08-08T20:17:11.182+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:17:11.182+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T20:17:11.238+0530] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T20:17:11.401+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:17:11.401+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T20:17:11.430+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:17:11.430+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-08-08 14:44:00+00:00, run_after=2025-08-08 14:46:00+00:00
+[2025-08-08T20:17:11.450+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.277 seconds
+[2025-08-08T20:24:11.049+0530] {processor.py:161} INFO - Started process (PID=78145) to work on /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T20:24:11.052+0530] {processor.py:830} INFO - Processing file /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-08-08T20:24:11.053+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:24:11.052+0530] {dagbag.py:545} INFO - Filling up the DagBag from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T20:24:11.108+0530] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-08-08T20:24:11.371+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:24:11.371+0530] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-08T20:24:11.396+0530] {logging_mixin.py:188} INFO - [2025-08-08T20:24:11.396+0530] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2025-08-08 14:52:00+00:00, run_after=2025-08-08 14:54:00+00:00
+[2025-08-08T20:24:11.415+0530] {processor.py:183} INFO - Processing /Users/piyush.dixit/Desktop/airflow-env/lib/python3.9/site-packages/airflow/example_dags/example_sla_dag.py took 0.370 seconds
