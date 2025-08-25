@@ -1,0 +1,36 @@
+#install spark make sure you have installed python and java compatible versions on machine
+
+install spark visite website https://spark.apache.org/downloads.html
+
+choose spark version which is compatible to your machine i would prefer version - 3.5.6 
+
+create a directory 
+mkdir -p /usr/local/opt/spark/
+
+move all files to spark directory
+
+mv /Users/piyush.dixit/Downloads/spark/spark-3.5.6-bin-hadoop3-scala2.13.tgz  /usr/local/opt/spark/
+
+
+now extract the spark files using below command 
+tar -xvf spark-3.5.6-bin-hadoop3-scala2.13.tgz
+
+
+save and exit file and open zshrc or bashrc
+
+nano ~/.zshrc
+
+add following 
+
+export SPARK_HOME=/usr/local/opt/spark/spark-3.5.6-bin-hadoop3-scala2.13
+export PATH=$SPARK_HOME/bin:$PATH
+
+save and exit 
+
+
+on terminal exeture command to check installation
+
+spark-shell
+
+
+
