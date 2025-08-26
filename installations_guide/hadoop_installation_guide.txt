@@ -159,3 +159,25 @@ NodeManager
 Stop Hadoop Services
 stop-yarn.sh
 stop-dfs.sh
+
+
+
+
+
+***********************************************************************************
+how to start hadoop
+cd /usr/local/opt/hadoop/hadoop-3.3.4/sbin
+ ./start-dfs.sh
+
+how to create a directory in hadoop command 
+dfs -mkdir -p  /Users/piyush.dixit/Desktop/processed_hadoop_output
+
+how to list files under any directory
+hdfs dfs -ls /Users/piyush.dixit/Desktop/processed_hadoop_output
+
+
+
+copy one file location to hadoop directory 
+hdfs dfs -put /Users/piyush.dixit/Desktop/AdPulse/advertisement.csv /Users/piyush.dixit/Desktop/processed_hadoop_output/
+
+
