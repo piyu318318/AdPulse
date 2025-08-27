@@ -180,4 +180,10 @@ hdfs dfs -ls /Users/piyush.dixit/Desktop/processed_hadoop_output
 copy one file location to hadoop directory 
 hdfs dfs -put /Users/piyush.dixit/Desktop/AdPulse/advertisement.csv /Users/piyush.dixit/Desktop/processed_hadoop_output/
 
+get the whole directory size command
+hdfs dfs -du -s -h   /Users/piyush.dixit/Desktop/processed_hadoop_output/
+
+get specific file size 
+hdfs dfs -du -h  /Users/piyush.dixit/Desktop/processed_hadoop_output/part-00002-764dafd2-51ea-4933-b164-e8d0032827f6-c000.csv
+
 
