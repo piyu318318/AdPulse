@@ -1,0 +1,36 @@
+
+###before downloading hive make sure you have installed java and hadoop on machine
+change the directory  
+cd ~/Downloads
+curl -O https://dlcdn.apache.org/hive/hive-4.0.1/apache-hive-4.0.1-bin.tar.gz
+
+
+create hive  directory
+mkdir -p /usr/local/opt/hive/
+
+
+move the tar file to hive directory
+sudo mv apache-hive-4.0.1-bin.tar.gz /usr/local/opt/hive/
+
+
+
+change the directory 
+cd /usr/local/opt/hive/
+
+extract the hove tar file 
+tar -xvzf apache-hive-4.0.1-bin.tar.gz
+
+
+
+sudo nano ~/.zshrc
+
+add hive location in bashrc or zshrc
+#hive
+export HIVE_HOME=/usr/local/opt/hive/apache-hive-4.0.1-bin
+export PATH=$HIVE_HOME/bin:$PATH
+
+
+sudo source ~/.zshrc
+
+check hive version
+hive --version
